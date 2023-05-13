@@ -6312,7 +6312,7 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا القيف"
-Rrr = math.random(4,50)
+Rrr = math.random(2,22)
 local m = "https://t.me/lflflrofo/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendanimation?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&animation="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
@@ -6322,7 +6322,7 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا القيف"
-Rrr = math.random(4,50)
+Rrr = math.random(2,21)
 local m = "https://t.me/dldldldlgt/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendanimation?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&animation="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
@@ -6342,7 +6342,7 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا القيف"
-Rrr = math.random(4,50)
+Rrr = math.random(2,24)
 local m = "https://t.me/fmgngoclr/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendanimation?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&animation="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
@@ -6372,8 +6372,8 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا "
-Rrr = math.random(4,50)
-local m = "https://t.me/jahske/"..Rrr..""
+Rrr = math.random(2,30)
+local m = "https://t.me/lflfltnt/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendvoice?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&voice="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
 end
@@ -6402,20 +6402,20 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا الشعر"
-Rrr = math.random(4,50)
+Rrr = math.random(3,30)
 local m = "https://t.me/lflfltnt/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendvoice?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&voice="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
 end
-if text == "فصحى" or text == "الفصحى" then
+if text == "ميمز" or text == "م" then
 if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
-local t = "⇜ اخترت لك هذا الفصحى"
-Rrr = math.random(4,50)
-local m = "https://t.me/Shshshsc/"..Rrr..""
+local t = "⇜ اخترت لك هذا الميمز"
+Rrr = math.random(2,1201)
+local m = "https://t.me/MemzWaTaN/"..Rrr..""
 local rep = msg.id/2097152/0.5
-https.request("https://api.telegram.org/bot"..Token.."/sendvoice?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&voice="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
+https.request("https://api.telegram.org/bot"..Token.."/sendVoice?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&Voice="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
 end
 if text == "ايدت" or text == "ايدتات" then
 if Redis:get(TheMero.."trfeh"..msg.chat_id) then
@@ -6531,8 +6531,8 @@ if text == "انمي" or text == "افتار انمي" then
 if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
-local t = "⇜ اخترت لك هذا الافتار"
-Rrr = math.random(4,50)
+local t = "⇜ اخترت لك هذا انمي"
+Rrr = math.random(2,258)
 local m = "https://t.me/havsjshd/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendphoto?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&photo="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
@@ -6562,7 +6562,7 @@ if Redis:get(TheMero.."trfeh"..msg.chat_id) then
 return send(msg.chat_id,msg.id,"⇜ التسلية معطلة من قبل المشرفين","md",true)
 end
 local t = "⇜ اخترت لك هذا العبارة"
-Rrr = math.random(4,50)
+Rrr = math.random(2,79)
 local m = "https://t.me/Lorebots8/"..Rrr..""
 local rep = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token.."/sendphoto?chat_id="..msg_chat_id.."&caption="..URL.escape(t).."&photo="..m.."&reply_to_message_id="..rep.."&parse_mode=Markdown")
